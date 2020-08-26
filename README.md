@@ -1,4 +1,7 @@
-### Hi there 👋
+This account holds the programming projects I did while studying.
+
+<a href="https://github.com/m-gg/book-club">book-club</a> is a website/webservice created using C# and ASP.NET<br>
+<a href="https://github.com/m-gg/blackjack">blackjack</a> is a card game created using C# and Windows Forms.
 
 <!--
 **m-gg/m-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
